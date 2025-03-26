@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project involves developing a **Python web scraping script** to extract **voting projections** of political parties across **336 districts**. The collected data is then analyzed to compare the **projected margin of victory** with **voter turnout**, helping to identify **strategic areas** for influencing election outcomes effectively.
+This project involves developing a **Python web scraping script** to extract **voting projections** of political parties across **338 districts**. The collected data is then analyzed to compare the **projected margin of victory** with **voter turnout**, helping to identify **strategic areas** for influencing election outcomes effectively.
 
 ## Features
 
